@@ -8,6 +8,8 @@ We will post the general toolkit.
 - [x] Toolkit for nuScences dataset
 - [ ] Generic toolkit for arbitrary dataset. 
 
+For now, the readme for each dataset toolkit are in Chinese. Stay tuned for the English localization. 
 
-
+<!-- More to come! Stay tuned. -->
+<!-- Please check the Toolkit_nuscence.md  -->
 
